@@ -1,0 +1,15 @@
+[
+    {
+        "id": "UUID1",
+        "name": "Spaghetti Carbonara",
+        "ingredients": ["Spaghetti", "Eggs", "Parmesan cheese", "Pancetta"],
+        "instructions": "Cook spaghetti. Mix eggs with cheese. Fry pancetta. Combine all ingredients."
+    },
+    {
+        "id": "UUID2",
+        "name": "Chicken Curry",
+        "ingredients": ["Chicken", "Curry powder", "Coconut milk", "Onions"],
+        "instructions": "Sauté onions. Add chicken and curry powder. Stir in coconut milk and simmer."
+    }
+]
+
